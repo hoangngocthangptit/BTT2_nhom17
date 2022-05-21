@@ -15,6 +15,9 @@ Edit sp
 
 tạo các entity
 ![image](https://user-images.githubusercontent.com/61647416/169640120-a5df5dca-7fa7-4850-bb29-08e67fb7eeac.png) 
+Cấu hình application
+![image](https://user-images.githubusercontent.com/61647416/169640801-9a7566be-cf58-458e-9bc3-4f36c78a4ab2.png)
+
 tạo interface repository kế thừa giao diện CrudRepository: Giao diện này khai 
 báo các phương thức thực hiện các thao tác cơ bản như create, read, update, delete 
 ![image](https://user-images.githubusercontent.com/61647416/169640169-d4342632-329f-4830-9b6c-cb5d211d441c.png)
