@@ -13,3 +13,11 @@ add sp
 Edit sp
 ![image](https://user-images.githubusercontent.com/61647416/169640023-f7c3f2e2-6158-42ee-a997-123d428c4210.png)
 
+tạo các entity
+![image](https://user-images.githubusercontent.com/61647416/169640120-a5df5dca-7fa7-4850-bb29-08e67fb7eeac.png) 
+tạo interface repository kế thừa giao diện CrudRepository: Giao diện này khai 
+báo các phương thức thực hiện các thao tác cơ bản như create, read, update, delete 
+![image](https://user-images.githubusercontent.com/61647416/169640169-d4342632-329f-4830-9b6c-cb5d211d441c.png)
+tạo packet com.example.demo.Service  thực hiện chức năng  save,delete,getAll,findbyID
+![image](https://user-images.githubusercontent.com/61647416/169640394-6b274fbd-7d59-4b51-a7e6-fefa0732e574.png)
+
