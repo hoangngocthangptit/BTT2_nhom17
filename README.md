@@ -25,5 +25,9 @@ Tạo package Controller :nạp service,tiếp nhận request và trả về res
 ![image](https://user-images.githubusercontent.com/61647416/169640556-65d3da52-6370-4800-8998-a8ea1b4ad39a.png)
 
 FrontEnd:Bao gồm giao diện 4 trang
+
+
+
+
 ![image](https://user-images.githubusercontent.com/61647416/169640580-9bdf0a61-7d71-4ec4-bb1f-19af8238557d.png)
 
