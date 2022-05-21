@@ -18,6 +18,12 @@ tạo các entity
 tạo interface repository kế thừa giao diện CrudRepository: Giao diện này khai 
 báo các phương thức thực hiện các thao tác cơ bản như create, read, update, delete 
 ![image](https://user-images.githubusercontent.com/61647416/169640169-d4342632-329f-4830-9b6c-cb5d211d441c.png)
-tạo packet com.example.demo.Service  thực hiện chức năng  save,delete,getAll,findbyID
+tạo package com.example.demo.Service  thực hiện chức năng  save,delete,getAll,findbyID
 ![image](https://user-images.githubusercontent.com/61647416/169640394-6b274fbd-7d59-4b51-a7e6-fefa0732e574.png)
+
+Tạo package Controller :nạp service,tiếp nhận request và trả về response cho client,điều khiển dữ liệu
+![image](https://user-images.githubusercontent.com/61647416/169640556-65d3da52-6370-4800-8998-a8ea1b4ad39a.png)
+
+FrontEnd:Bao gồm giao diện 4 trang
+![image](https://user-images.githubusercontent.com/61647416/169640580-9bdf0a61-7d71-4ec4-bb1f-19af8238557d.png)
 
